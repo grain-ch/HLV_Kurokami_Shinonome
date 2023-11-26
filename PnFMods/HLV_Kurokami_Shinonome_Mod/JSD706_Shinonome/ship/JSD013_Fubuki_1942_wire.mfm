@@ -1,0 +1,10 @@
+<JSD013_Fubuki_1942_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Kurokami_Shinonome_Mod/JSD706_Shinonome/ship/JSD013_Fubuki_1942_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Kurokami_Shinonome_Mod/JSD706_Shinonome/ship/JSD013_Fubuki_1942_mg.dds	</Texture>
+	</property>
+</JSD013_Fubuki_1942_wire.mfm>

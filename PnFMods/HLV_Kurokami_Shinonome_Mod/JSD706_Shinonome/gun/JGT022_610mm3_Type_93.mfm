@@ -1,0 +1,7 @@
+<JGT022_610mm3_Type_93.mfm>
+	<fx>	shaders/materials/pbs/glass_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Kurokami_Shinonome_Mod/JSD706_Shinonome/gun/JGT022_610mm3_Type_93_a.dds	</Texture>
+	</property>
+</JGT022_610mm3_Type_93.mfm>
