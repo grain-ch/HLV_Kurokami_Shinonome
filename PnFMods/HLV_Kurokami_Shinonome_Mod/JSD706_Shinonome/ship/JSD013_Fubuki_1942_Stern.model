@@ -1,7 +1,6 @@
 <JSD013_Fubuki_1942_Stern.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Kurokami_Shinonome_Mod/JSD706_Shinonome/ship/lods/JSD013_Fubuki_1942_Stern_lod1	</parent>
-	<extent>	10.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Kurokami_Shinonome_Mod/JSD706_Shinonome/ship/JSD013_Fubuki_1942_Stern	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Kurokami_Shinonome_Mod/JSD706_Shinonome/ship/JSD013_Fubuki_1942_Stern.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JSD013_Fubuki_1942_Stern.model>

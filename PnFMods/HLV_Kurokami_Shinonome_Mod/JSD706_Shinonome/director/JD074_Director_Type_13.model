@@ -1,7 +1,6 @@
 <JD074_Director_Type_13.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Kurokami_Shinonome_Mod/JSD706_Shinonome/director/lods/JD074_Director_Type_13_lod1	</parent>
-	<extent>	1.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Kurokami_Shinonome_Mod/JSD706_Shinonome/director/JD074_Director_Type_13	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Kurokami_Shinonome_Mod/JSD706_Shinonome/director/JD074_Director_Type_13.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JD074_Director_Type_13.model>
